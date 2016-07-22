@@ -1,0 +1,31 @@
+{
+    "author": "ecnemec1132@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "pebble-team-mystic-watchface",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Pebble Team Mystic Watchface",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/converted.png",
+                    "name": "MYSTIC_IMAGE",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "uuid": "0b3c6c30-a98c-4245-aedc-f5ad8905def0",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
